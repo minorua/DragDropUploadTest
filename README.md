@@ -6,3 +6,5 @@ Can we upload a folder to GitHub by drag &amp; drop like Netlify?
 3. Drag & drop a folder exported from Qgis2threejs to the branch page. Don't forget to commit the changes.
 
 That't it! :)
+
+https://minorua.github.io/DragDropUploadTest/scene/
