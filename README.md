@@ -1,5 +1,5 @@
 # DragDropUploadTest
-Can we upload a folder to GitHub by drag &amp; drop like Netlify?
+Can we upload a folder to GitHub by drag & drop like Netlify and publish it to the Web?
 
 1. Create a GitHub repository
 2. Create gh-pages branch
